@@ -17,4 +17,5 @@ Repository for familiarizing with some common automated tools available for the 
    and run tests locally with e.g. [`pytest`](https://docs.pytest.org/en)
 1. Enable GitHub action to automate testing on commits and and pull requests
 1. Resolve all issues detected using default GitHub action configurations
+1. Precommits
 1. Static code analysis
