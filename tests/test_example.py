@@ -1,5 +1,4 @@
 import unittest
-from automated_development_tutorial.example import fibonacci, sumOfPrimes
 
 
 class TestExample(unittest.TestCase):
