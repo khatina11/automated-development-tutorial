@@ -1,6 +1,3 @@
-import math
-
-
 def sumOfPrimes(max: int) -> int:
     """
     return sum of all prime numbers up to and including :param max:.
